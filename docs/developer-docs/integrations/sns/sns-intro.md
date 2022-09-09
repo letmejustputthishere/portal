@@ -110,12 +110,12 @@ the project is successful.
 * dapps are user-controlled
 -->
 
-## How to get and maintain a DAO - different options
+## How to get and maintain a DAO - different options _{#gettingDAOoptions}_
 
 There are at least the following options on how to get and maintain a DAO for
 your dapp.
 
-1) **Get an SNS that is provided as a _system functionality_ by the IC.**
+1) **Get an SNS that is provided as a _system functionality_ by the IC.** 
    An SNS is realized by a set of canisters. Getting and maintaining them is
    not a simple task. If one of the SNS canisters is upgraded, it has to be guaranteed
    that the new version of this canister is still compatible with the other SNS
