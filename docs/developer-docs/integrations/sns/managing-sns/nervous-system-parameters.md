@@ -1,1 +1,1 @@
-# Nervous System Parameters
+# SNS Nervous System Parameters
