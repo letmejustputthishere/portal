@@ -31,6 +31,8 @@ There are currently two master keys deployed, a test and a production key.
 - `(secp256k1, test_key_1)`: the test key deployed on a single 13-node subnet.
 - `(secp256k1, key_1)` the production key deployed on two high-replication subnets, one activated for signing, and the other one for backing up the key for better key availability.
 
+If you're using the threshold ECDSA API locally, make sure you are using `(secp256k1, dfx_test_key)` as described [here](https://internetcomputer.org/docs/current/samples/t-ecdsa-sample#update-source-code-with-the-right-key-id).
+
 ## Deployment
 
 We next outline the deployments for the Chromium (Beta) release and the general availability release.
